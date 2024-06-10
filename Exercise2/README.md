@@ -4,7 +4,7 @@
 
 One of the exercises included in this repository is a grade converter. The purpose of this function is to take a number grade (1-100) and return the appropriate letter grade (A, B, C, D, or F).
 
-## Steps to Implement the Grade Converter:
+### Steps to Implement the Grade Converter:
 
 1. Define the function grade_converter().
 2. Create appropriate if and elif statements that compare the input grade with a number range.
