@@ -8,7 +8,7 @@ One of the exercises included in this repository is to create a function that ca
 
 1. Define the Function
 
-   - Create a function named `scrabble_score` that accepts one argument: `word`, which is a string representing the word to be scored..
+   - Create a function named `scrabble_score` that accepts one argument: `word`, which is a string representing the word to be scored.
 
 2. Convert to Lowercase
 
