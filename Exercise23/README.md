@@ -4,7 +4,7 @@
 
 One of the exercises included in this repository is to create a class to represent a triangle and then extend this class to represent an equilateral triangle.
 
-### SSteps to Implement the Triangle and Equilateral Classes:
+### Steps to Implement the Triangle and Equilateral Classes:
 
 1. Define the Triangle Class
 

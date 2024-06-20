@@ -4,7 +4,7 @@
 
 One of the exercises included in this repository is to create a function that censors a specific word in a given text.
 
-### SSteps to Implement the Censor Function:
+### Steps to Implement the Censor Function:
 
 1. Define the Function
 

@@ -4,7 +4,7 @@
 
 One of the exercises included in this repository is to create a function that removes duplicate elements from a list.
 
-### SSteps to Implement the Remove Duplicates Function:
+### Steps to Implement the Remove Duplicates Function:
 
 1. Define the Function
 

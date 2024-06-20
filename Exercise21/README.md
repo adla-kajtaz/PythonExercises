@@ -4,7 +4,7 @@
 
 One of the exercises included in this repository is to create a list of squares and then filter the list to include only specific values.
 
-### SSteps to Implement the Squares List and Filter:
+### Steps to Implement the Squares List and Filter:
 
 1. Create a List of Squares
 

@@ -4,7 +4,7 @@
 
 One of the exercises included in this repository is to decipher a garbled string. The garbled string has two issues: it is backwards and contains extra "X" characters.
 
-### SSteps to Implement the Garbled String Decoder:
+### Steps to Implement the Garbled String Decoder:
 
 1. Reverse the String
 
