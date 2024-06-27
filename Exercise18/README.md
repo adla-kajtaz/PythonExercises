@@ -4,7 +4,7 @@
 
 One of the exercises included in this repository is to create a function that calculates the median of a list of numbers.
 
-### Steps to Implement the Scrabble Score Function:
+### Steps to Implement the Median Function:
 
 1. Define the Function
 
